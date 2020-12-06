@@ -3,8 +3,12 @@
 
 I am excited to share some of my work with you! 
 
+I work on Python projects
+
 I am very interested in learning about the use of geospatial and spatial data in machine learning applications to make our society more efficient and fairer.
-If anyone wants to share this journey with me hit me up 
+If anyone wants to share this journey with me hit me up on LinkedIn!
+
+[![Linkedin]https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paolo-andrich/)
 
 
 
