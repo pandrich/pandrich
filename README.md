@@ -1,7 +1,7 @@
 ## Hello folks! :wave:
 ***
 
-I am excited to share some of my work with you and to chat about all those aspects that I cannot share publicly, so get in [![touch](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paolo-andrich/)!
+I am excited to share some of my work with you and to chat about all those aspects that I cannot share publicly, so get in [touch](https://www.linkedin.com/in/paolo-andrich/)!
 
 I am a Data Scientist at the World Food Programme and I use statistical analysis and machine learning in Python to try to make our society more efficient and fairer.
 
