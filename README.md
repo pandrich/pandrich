@@ -1,10 +1,9 @@
 ## Hello folks! :wave:
 ***
 
-I am excited to share some of my work with you! 
+I am excited to share some of my work with you and to chat about all those aspects that I cannot share publicly, so get in [![touch](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paolo-andrich/)!
 
-I use Python and I am very interested in learning about the use of geospatial and spatial data in machine learning applications to make our society more efficient and fairer.
-If anyone wants to share this journey with me hit me up on LinkedIn [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paolo-andrich/)!
+I am a Data Scientist at the World Food Programme and I use statistical analysis and machine learning in Python to try to make our society more efficient and fairer.
 
 
 
